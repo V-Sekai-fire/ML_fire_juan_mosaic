@@ -2,8 +2,6 @@
 
 > FNS Mosaic is a style transfer model. In this sample application, we use the ONNX Runtime C API to process an image using the FNS Mosaic model in ONNX format.
 
-![Juan Mosaic](https://github.com/fire/onnx-godot-juan-mosaic/blob/main/DLvBok4XUAAnvyf_mosaic.png)
-
 ## How to run
 
 `run.bat`
@@ -14,6 +12,7 @@ https://github.com/microsoft/onnxruntime-inference-examples/blob/main/c_cxx/READ
 
 https://onnxruntimetestdata.blob.core.windows.net/models/libpng.zip
 
+![Juan Mosaic](https://github.com/fire/onnx-godot-juan-mosaic/blob/main/DLvBok4XUAAnvyf_mosaic.png)
 ## Support matrix
 
  > The DirectML execution provider currently supports ONNX opset 12 (ONNX v1.7). Evaluating models which require a higher opset version is not supported, and may produce unexpected results.
