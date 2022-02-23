@@ -28,7 +28,13 @@ https://onnxruntimetestdata.blob.core.windows.net/models/libpng.zip
     
 https://onnxruntime.ai/docs/execution-providers/DirectML-ExecutionProvider#install
 
-### Build instructions
+### Build Onnx Runtime instructions
+
+```
+./build.bat --config RelWithDebInfo --build_shared_lib --parallel --use_dml --disable_rtti --disable_exceptions --enable_msvc_static_runtime --ms_experimental
+```
+
+### Build Mosaic instructions
 
 ```
 mkdir build
