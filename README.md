@@ -17,7 +17,7 @@ https://onnxruntimetestdata.blob.core.windows.net/models/libpng.zip
 
  > The DirectML execution provider currently supports ONNX opset 12 (ONNX v1.7). Evaluating models which require a higher opset version is not supported, and may produce unexpected results.
     
-### Windows onnxruntime  On windows use directml.
+### Use Windows ONNX Runtime with CPU or Directml.
 
 >     CPU
 >     NVIDIA Kepler (GTX 600 series) and above
