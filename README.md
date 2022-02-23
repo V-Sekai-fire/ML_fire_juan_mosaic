@@ -2,6 +2,7 @@
 
 > FNS Mosaic is a style transfer model. In this sample application, we use the ONNX Runtime C API to process an image using the FNS Mosaic model in ONNX format.
 
+![Juan Mosaic](https://github.com/fire/onnx-godot-juan-mosaic/blob/main/DLvBok4XUAAnvyf_mosaic.png)
 
 ## How to run
 
