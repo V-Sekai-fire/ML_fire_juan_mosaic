@@ -31,7 +31,7 @@ https://onnxruntime.ai/docs/execution-providers/DirectML-ExecutionProvider#insta
 ### Build Onnx Runtime instructions
 
 ```
-./build.bat --config RelWithDebInfo --build_shared_lib --parallel --use_dml --disable_rtti --disable_exceptions --enable_msvc_static_runtime --ms_experimental
+./build.bat --config RelWithDebInfo --build_shared_lib --parallel --use_dml --disable_rtti --disable_exceptions --enable_msvc_static_runtime
 ```
 
 ### Build Mosaic instructions
