@@ -27,3 +27,12 @@ https://onnxruntimetestdata.blob.core.windows.net/models/libpng.zip
 > DirectML is compatible with Windows 10, version 1709 (10.0.16299; RS3, “Fall Creators Update”) and newer.
     
 https://onnxruntime.ai/docs/execution-providers/DirectML-ExecutionProvider#install
+
+### Build instructions
+
+```
+mkdir build
+cd build
+cmake ..
+REM Open visual stuido project and build release debug.
+```
