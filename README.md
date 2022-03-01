@@ -40,5 +40,5 @@ https://onnxruntime.ai/docs/execution-providers/DirectML-ExecutionProvider#insta
 mkdir build
 cd build
 cmake ..
-REM Open visual stuido project and build release debug.
+REM Open visual studio project and build release debug.
 ```
